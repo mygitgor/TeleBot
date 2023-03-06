@@ -1,0 +1,5 @@
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\obj\Debug\net6.0\telegramBot.csproj.AssemblyReference.cache
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\obj\Debug\net6.0\telegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\obj\Debug\net6.0\telegramBot.AssemblyInfoInputs.cache
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\obj\Debug\net6.0\telegramBot.AssemblyInfo.cs
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\obj\Debug\net6.0\telegramBot.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\bin\Debug\net6.0\telegramBot.exe
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\bin\Debug\net6.0\telegramBot.deps.json
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\bin\Debug\net6.0\telegramBot.runtimeconfig.json
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\bin\Debug\net6.0\telegramBot.dll
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\bin\Debug\net6.0\telegramBot.pdb
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\telegramBot.csproj.AssemblyReference.cache
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\telegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\telegramBot.AssemblyInfoInputs.cache
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\telegramBot.AssemblyInfo.cs
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\telegramBot.csproj.CoreCompileInputs.cache
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\telegramBot.dll
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\refint\telegramBot.dll
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\telegramBot.pdb
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\telegramBot.genruntimeconfig.cache
+C:\Users\mypyw\OneDrive\Desktop\C_telegramBoter\telegramBot\obj\Debug\net6.0\ref\telegramBot.dll
